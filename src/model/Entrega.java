@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package model;
 
-/**
- *
- * @author will
- */
+import java.util.Calendar;
+
 public class Entrega {
+    private Calendar dataEnt;
+    private Veiculos carroEnt;
+    private Motorista motEnt;
     
 }
